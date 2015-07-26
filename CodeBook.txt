@@ -1,0 +1,69 @@
+01 activity_name             Activity Name                                                                       
+02 subject_code              Subject Code                                                                        
+03 activity_code             Activity Code                                                                       
+04 tBodyAcc_mean_X           Average Mean Value Of Time Body Acceleration On The X-axis                          
+05 tBodyAcc_mean_Y           Average Mean Value Of Time Body Acceleration On The Y-axis                          
+06 tBodyAcc_mean_Z           Average Mean Value Of Time Body Acceleration On The Z-axis                          
+07 tBodyAcc_std_X            Average Standard Deviation Of Time Body Acceleration On The X-axis                  
+08 tBodyAcc_std_Y            Average Standard Deviation Of Time Body Acceleration On The Y-axis                  
+09 tBodyAcc_std_Z            Average Standard Deviation Of Time Body Acceleration On The Z-axis                  
+10 tGravityAcc_mean_X        Average Mean Value Of Time Gravity Acceleration On The X-axis                       
+11 tGravityAcc_mean_Y        Average Mean Value Of Time Gravity Acceleration On The Y-axis                       
+12 tGravityAcc_mean_Z        Average Mean Value Of Time Gravity Acceleration On The Z-axis                       
+13 tGravityAcc_std_X         Average Standard Deviation Of Time Gravity Acceleration On The X-axis               
+14 tGravityAcc_std_Y         Average Standard Deviation Of Time Gravity Acceleration On The Y-axis               
+15 tGravityAcc_std_Z         Average Standard Deviation Of Time Gravity Acceleration On The Z-axis               
+16 tBodyAccJerk_mean_X       Average Mean Value Of Time Body Acceleration Jerk On The X-axis                     
+17 tBodyAccJerk_mean_Y       Average Mean Value Of Time Body Acceleration Jerk On The Y-axis                     
+18 tBodyAccJerk_mean_Z       Average Mean Value Of Time Body Acceleration Jerk On The Z-axis                     
+19 tBodyAccJerk_std_X        Average Standard Deviation Of Time Body Acceleration Jerk On The X-axis             
+20 tBodyAccJerk_std_Y        Average Standard Deviation Of Time Body Acceleration Jerk On The Y-axis             
+21 tBodyAccJerk_std_Z        Average Standard Deviation Of Time Body Acceleration Jerk On The Z-axis             
+22 tBodyGyro_mean_X          Average Mean Value Of Time Body Gyroscope Velocity On The X-axis                    
+23 tBodyGyro_mean_Y          Average Mean Value Of Time Body Gyroscope Velocity On The Y-axis                    
+24 tBodyGyro_mean_Z          Average Mean Value Of Time Body Gyroscope Velocity On The Z-axis                    
+25 tBodyGyro_std_X           Average Standard Deviation Of Time Body Gyroscope Velocity On The X-axis            
+26 tBodyGyro_std_Y           Average Standard Deviation Of Time Body Gyroscope Velocity On The Y-axis            
+27 tBodyGyro_std_Z           Average Standard Deviation Of Time Body Gyroscope Velocity On The Z-axis            
+28 tBodyGyroJerk_mean_X      Average Mean Value Of Time Body Gyroscope Velocity Jerk On The X-axis               
+29 tBodyGyroJerk_mean_Y      Average Mean Value Of Time Body Gyroscope Velocity Jerk On The Y-axis               
+30 tBodyGyroJerk_mean_Z      Average Mean Value Of Time Body Gyroscope Velocity Jerk On The Z-axis               
+31 tBodyGyroJerk_std_X       Average Standard Deviation Of Time Body Gyroscope Velocity Jerk On The X-axis       
+32 tBodyGyroJerk_std_Y       Average Standard Deviation Of Time Body Gyroscope Velocity Jerk On The Y-axis       
+33 tBodyGyroJerk_std_Z       Average Standard Deviation Of Time Body Gyroscope Velocity Jerk On The Z-axis       
+34 tBodyAccMag_mean          Average Mean Value Of Time Body Acceleration Magnitude                              
+35 tBodyAccMag_std           Average Standard Deviation Of Time Body Acceleration Magnitude                      
+36 tGravityAccMag_mean       Average Mean Value Of Time Gravity Acceleration Magnitude                           
+37 tGravityAccMag_std        Average Standard Deviation Of Time Gravity Acceleration Magnitude                   
+38 tBodyAccJerkMag_mean      Average Mean Value Of Time Body Acceleration Jerk Magnitude                         
+39 tBodyAccJerkMag_std       Average Standard Deviation Of Time Body Acceleration Jerk Magnitude                 
+40 tBodyGyroMag_mean         Average Mean Value Of Time Body Gyroscope Velocity Magnitude                        
+41 tBodyGyroMag_std          Average Standard Deviation Of Time Body Gyroscope Velocity Magnitude                
+42 tBodyGyroJerkMag_mean     Average Mean Value Of Time Body Gyroscope Velocity Jerk Magnitude                   
+43 tBodyGyroJerkMag_std      Average Standard Deviation Of Time Body Gyroscope Velocity Jerk Magnitude           
+44 fBodyAcc_mean_X           Average Mean Value Of Frequency Body Acceleration On The X-axis                     
+45 fBodyAcc_mean_Y           Average Mean Value Of Frequency Body Acceleration On The Y-axis                     
+46 fBodyAcc_mean_Z           Average Mean Value Of Frequency Body Acceleration On The Z-axis                     
+47 fBodyAcc_std_X            Average Standard Deviation Of Frequency Body Acceleration On The X-axis             
+48 fBodyAcc_std_Y            Average Standard Deviation Of Frequency Body Acceleration On The Y-axis             
+49 fBodyAcc_std_Z            Average Standard Deviation Of Frequency Body Acceleration On The Z-axis             
+50 fBodyAccJerk_mean_X       Average Mean Value Of Frequency Body Acceleration Jerk On The X-axis                
+51 fBodyAccJerk_mean_Y       Average Mean Value Of Frequency Body Acceleration Jerk On The Y-axis                
+52 fBodyAccJerk_mean_Z       Average Mean Value Of Frequency Body Acceleration Jerk On The Z-axis                
+53 fBodyAccJerk_std_X        Average Standard Deviation Of Frequency Body Acceleration Jerk On The X-axis        
+54 fBodyAccJerk_std_Y        Average Standard Deviation Of Frequency Body Acceleration Jerk On The Y-axis        
+55 fBodyAccJerk_std_Z        Average Standard Deviation Of Frequency Body Acceleration Jerk On The Z-axis        
+56 fBodyGyro_mean_X          Average Mean Value Of Frequency Body Gyroscope Velocity On The X-axis               
+57 fBodyGyro_mean_Y          Average Mean Value Of Frequency Body Gyroscope Velocity On The Y-axis               
+58 fBodyGyro_mean_Z          Average Mean Value Of Frequency Body Gyroscope Velocity On The Z-axis               
+59 fBodyGyro_std_X           Average Standard Deviation Of Frequency Body Gyroscope Velocity On The X-axis       
+60 fBodyGyro_std_Y           Average Standard Deviation Of Frequency Body Gyroscope Velocity On The Y-axis       
+61 fBodyGyro_std_Z           Average Standard Deviation Of Frequency Body Gyroscope Velocity On The Z-axis       
+62 fBodyAccMag_mean          Average Mean Value Of Frequency Body Acceleration Magnitude                         
+63 fBodyAccMag_std           Average Standard Deviation Of Frequency Body Acceleration Magnitude                 
+64 fBodyBodyAccJerkMag_mean  Average Mean Value Of Frequency Body Body Acceleration Jerk Magnitude               
+65 fBodyBodyAccJerkMag_std   Average Standard Deviation Of Frequency Body Body Acceleration Jerk Magnitude       
+66 fBodyBodyGyroMag_mean     Average Mean Value Of Frequency Body Body Gyroscope Velocity Magnitude              
+67 fBodyBodyGyroMag_std      Average Standard Deviation Of Frequency Body Body Gyroscope Velocity Magnitude      
+68 fBodyBodyGyroJerkMag_mean Average Mean Value Of Frequency Body Body Gyroscope Velocity Jerk Magnitude         
+69 fBodyBodyGyroJerkMag_std  Average Standard Deviation Of Frequency Body Body Gyroscope Velocity Jerk Magnitude 
