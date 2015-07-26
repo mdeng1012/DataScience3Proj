@@ -1,8 +1,8 @@
 # Course Project for Data Science 3 - Getting and Cleaning Data 
 
-## A Desciption of How Script run_ analysis.R Works for  
+## A Desciption on How Script run_ analysis.R Works
 
-### 0. Read in Data
+### 0. Read in data
    First read in common data from files activity_labels.txt and features.txt,
    then read in training data from file ./train/X_train.txt, ./train/y_train.txt, ./train/subject_train.txt
    and ombine train data with its labels and subjects. Perform the same for test data. 
@@ -29,6 +29,6 @@
    This is achieved by invoking function aggregate() on . ~ activity_name + subject_code + activity_code. 
    Finally write out tidy data set into file tidy_data.txt by invoking write.table().
 
-### 6. Code Book
+### 6. Code book
    Optionally, I added R code to prepare code book entries and write them out to file CodeBook.txt, which lists each variable in the format of 
-Column #, Variable Name, Definition.
+Column #, Variable Name, Definition. 
